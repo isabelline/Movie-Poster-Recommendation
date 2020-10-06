@@ -8,14 +8,14 @@
 - vision_api.py: vision api를 이용한 영화 포스터 이미지 분류/객체 탐지
 
 ## 사용자 맞품형 영화 포스터 디스플레이
-![기획](/image/asis.PNG)
+![기획](/image/asis.png)
 
 ## 모델 개발 과정
-![모델 개발 과정](/image/mmodel.PNG)
+![모델 개발 과정](/image/mmodel.png)
 
 ## 예매율에 따른 선호 이미지 라벨
-![성별/연령별 선호 라벨](image/demo.PNG)
+![성별/연령별 선호 라벨](image/demo.png)
 
 ## 결과
-![결과](/image/result.PNG)
+![결과](/image/result.png)
 
