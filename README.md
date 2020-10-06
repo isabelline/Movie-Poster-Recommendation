@@ -11,7 +11,7 @@
 ![기획](/image/asis.png)
 
 ## 모델 개발 과정
-![모델 개발 과정](/image/mmodel.png)
+![모델 개발 과정](/image/model.png)
 
 ## 예매율에 따른 선호 이미지 라벨
 ![성별/연령별 선호 라벨](image/demo.png)
